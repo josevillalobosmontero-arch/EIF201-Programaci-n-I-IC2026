@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ProcesadorNumeros.cpp">
+    <ClCompile Include="ArrayProcessor.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
@@ -23,7 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ProcesadorNumeros.h">
+    <ClInclude Include="ArrayProcessor.h">
       <Filter>Archivos de origen</Filter>
     </ClInclude>
   </ItemGroup>

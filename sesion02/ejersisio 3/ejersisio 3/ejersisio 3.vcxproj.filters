@@ -15,16 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ProcesadorNumeros.cpp">
+    <ClCompile Include="ejersisio 3.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>Archivos de recursos</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="ProcesadorNumeros.h">
-      <Filter>Archivos de origen</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
